@@ -1,0 +1,20 @@
+{
+  "tareas": [
+    {
+      "id": 1,
+      "texto": "Comprar huevos de codorniz",
+      "completada": false
+    },
+    {
+      "id": 2,
+      "texto": "Sacar la basura",
+      "completada": false
+    },
+    {
+      "id": 3,
+      "texto": "Estudiar Java",
+      "completada": true
+    }
+  ],
+  "id_contador": 5
+}
